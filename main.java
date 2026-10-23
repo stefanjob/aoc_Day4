@@ -11,7 +11,7 @@ public class main {
     public static void part1()
     {
         System.out.println("AoC Day 4 Part 1");
-   
+        // test
         HashMap<Integer, char[]> mapWithChars = new HashMap<>();
         HashMap<Integer, String> mapWithStrings = new HashMap<>();
         HashMap<Integer, String> verticalStrings = null;
